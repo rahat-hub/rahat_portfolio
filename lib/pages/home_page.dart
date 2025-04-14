@@ -4,7 +4,7 @@ import 'package:rahat_portfolio/widgets/drawer_mobile.dart';
 
 
 import '../constants/size.dart';
-import '../constants/skill_items.dart';
+
 import '../widgets/header_desktop.dart';
 import '../widgets/header_mobile.dart';
 import '../widgets/main_desktop.dart';
